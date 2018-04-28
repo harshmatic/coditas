@@ -1,0 +1,21 @@
+.PostPage-title {
+  font-size: 22px;
+  text-transform: capitalize;
+}
+.PostPage {
+  border: 2px black solid;
+  padding: 5px;
+  margin: 5px;
+}
+.PostPage img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.PostPage h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
